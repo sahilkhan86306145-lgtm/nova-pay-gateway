@@ -1,6 +1,10 @@
+export const metadata = {
+  title: "Nova Pay",
+};
+
 export default function RootLayout({ children }) {
   return (
-    <html>
+    <html lang="en">
       <body>{children}</body>
     </html>
   );
