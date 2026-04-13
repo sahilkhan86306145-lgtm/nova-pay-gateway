@@ -1,3 +1,5 @@
 export default function Page() {
-  return <div>Deposit Page</div>;
-}w
+  return (
+    <div>Deposit Page</div>
+  );
+}
